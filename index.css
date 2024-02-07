@@ -1,5 +1,5 @@
 p {
-    color: white;
+    color: lightskyblue;
     font-family: 'Press Start 2P', system-ui;
     
 }
@@ -18,7 +18,7 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;  
     height: 100vh;  
-    color: #fff;
+    color: #0addf0;
 }
 
 
@@ -50,7 +50,7 @@ h1 {
     height: 30px;
     line-height: 30px;
     margin: 5px;
-    border: 1px solid #ccc;
+    border: 1px solid #0addf0;
     font-size: 16px;
     cursor: pointer;
 }
@@ -66,9 +66,9 @@ body {
 }
 
 .colored-box {
-    background-color: #292626;
+    background-color: #000000;
     padding: 10px;
-    color: #46923a;
+    color: #0addf0;
 }
 
 body {
@@ -85,19 +85,19 @@ body {
 }
 
 .custom-form label {
-    color: #f0e7e7;
+    color: #0addf0;
     margin-right: 10px;
 }
 
 .custom-form input {
     padding: 5px;
-    border: 1px solid #ccc;
+    border: 1px solid #0addf0;
     border-radius: 3px;
 }
 
 .custom-form button {
     background-color: #2ecc71;
-    color: #fff;
+    color: #0addf0;
     padding: 5px 10px;
     border: none;
     border-radius: 3px;
