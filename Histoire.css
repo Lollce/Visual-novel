@@ -1,24 +1,23 @@
 p {
-    color: black;
+    
     font-family: 'Press Start 2P', system-ui;
     
 }
 body {
     font-family: 'Press Start 2P', cursive;
-    background-color: #000;
     color: #fff;
     
 }
 body {
     margin: 0;
     padding: 0;
-    background-image: url('images/nintendo-xenoblade-chronicles-x-monolith-soft-wii-u-wallpaper-0b8a4144b8f8078b62fe49440a374436.jpg');
+    background-image: url('images/1342614.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;  
     height: 100vh;  
-    color: #000000;
+
 }
 
 
@@ -30,6 +29,7 @@ h1 {
     text-align: center;
     font-size: 36px;
     margin-top: 20px;
+    color: rgb(0, 0, 0);
 }
 
 body {
@@ -41,7 +41,7 @@ body {
 .colored-box {
     background-color: transparent;
     padding: 10px;
-    color: #0addf0;
+    color: #ffffff;
 }
 
 body {
@@ -52,23 +52,24 @@ body {
 
 .custom-form button {
     background-color: #2ecc71;
-    color: #000000;
+    
     padding: 5px 10px;
     border: none;
     border-radius: 3px;
     cursor: pointer;
 }
 h2 {
-text-align: center;
-cursor: pointer;
-border: none;
-font-size: medium;
-margin-top: auto;
-
+    text-align: center;
+    cursor: pointer;
+    border: none;
+    font-size: medium;
+    margin-top: auto;
+    color: #262a30; 
 }
+
 footer {
-    color: black;
+    text-align: center;
 }
 a {
-    color: black;
+ text-align: justify;   
 }
